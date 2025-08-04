@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Page-1" id="bbByRQBIf_bvnOfAQZVN">
     <mxGraphModel dx="2595" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -221,43 +221,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-1" value="What recipes use what base methodologies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-1" value="What recipes use what base methodologies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-2" value="Meal variants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-2" value="Meal variants" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-3" value="List of recipes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-3" value="Recipe Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-4" value="Cooking time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-4" value="Cooking time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-5" value="Ideal Temperature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-5" value="Ideal Temperature" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-6" value="Texture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-6" value="Texture" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-7" value="Set up time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-7" value="Set up time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-8" value="Spiciness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-8" value="Spiciness" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-9" value="Cuisine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-9" value="Cuisine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-10" value="Applicable Bodges" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-10" value="Applicable Bodges" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-11" value="List of base methodologies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-11" value="Methodology Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="524" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-12" value="Leftoverability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-12" value="Leftoverability" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQSveFtPNRjqP6VAL7w1-13" value="Cooking time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQSveFtPNRjqP6VAL7w1-13" value="Cooking time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

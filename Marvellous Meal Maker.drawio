@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Page-1" id="bbByRQBIf_bvnOfAQZVN">
-    <mxGraphModel dx="2395" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,16 +397,16 @@
           <mxGeometry x="1350" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-5" value="GUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-6" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-7" value="Allergies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-8" value="4 Preferences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-9" value="Pantry Lookup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="400" width="120" height="60" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry x="1730" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-17" value="Store Availability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NCn_qt-Kw0102S3IN5Y-18" value="Expiry Dates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="410" width="120" height="60" as="geometry" />
@@ -454,6 +454,40 @@
             <Array as="points">
               <mxPoint x="1200" y="210" />
               <mxPoint x="1060" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NCn_qt-Kw0102S3IN5Y-5" target="_NCn_qt-Kw0102S3IN5Y-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="380" as="sourcePoint" />
+            <mxPoint x="1310" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NCn_qt-Kw0102S3IN5Y-6" target="_NCn_qt-Kw0102S3IN5Y-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="360" as="sourcePoint" />
+            <mxPoint x="1290" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NCn_qt-Kw0102S3IN5Y-17" target="_NCn_qt-Kw0102S3IN5Y-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="420" as="sourcePoint" />
+            <mxPoint x="1120" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1059.89" y="460" as="sourcePoint" />
+            <mxPoint x="1059.89" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NCn_qt-Kw0102S3IN5Y-8" target="_NCn_qt-Kw0102S3IN5Y-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="340" as="sourcePoint" />
+            <mxPoint x="1260" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="450" />
+              <mxPoint x="1060" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -387,6 +387,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-2" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-3" value="28 Day Previous" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-4" value="7 Day Current" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-5" value="GUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-6" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-7" value="Allergies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-8" value="4 Preferences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-9" value="Pantry Lookup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-10" value="Meal Time Slots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-11" value="Shopping List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NCn_qt-Kw0102S3IN5Y-12" value="Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

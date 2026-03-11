@@ -1,0 +1,116 @@
+--https://runsql.com/sql-validator/
+CREATE TABLE PantryStore (
+  storageID PRIMARY KEY int,
+  FOREIGN KEY {Amounts},
+  ,
+  ,
+);
+
+CREATE TABLE PantryRef (
+  refID PRIMARY KEY,
+  FOREIGN KEY {storageID},
+  name str NOT NULL,
+  specificSubDomain,
+  ,
+);
+
+CREATE TABLE PantryAppend (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryVariants (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryAmounts (
+  Amounts PRIMARY KEY,
+  FOREIGN KEY {Item},
+  FOREIGN KEY {Weight},
+  ,
+);
+
+
+CREATE TABLE PantryItem (
+  ,
+  ,
+  ,
+  ,
+);
+
+
+CREATE TABLE PantryGram (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantrySpicy (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryScoville (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryHeat (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryStorageSpecifications (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryAvailability (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryAllergy (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryFoodGroup (
+  ,
+  ,
+  ,
+  ,
+);
+
+CREATE TABLE PantryTexture (
+  ,
+  ,
+  ,
+  ,
+);
+
+
+CREATE TABLE PantryTaste (
+  ,
+  ,
+  ,
+  ,
+);

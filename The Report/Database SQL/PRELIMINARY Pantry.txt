@@ -31,8 +31,7 @@ CREATE TABLE PantryVariants (
 CREATE TABLE PantryAmounts (
   Amounts PRIMARY KEY,
   FOREIGN KEY {Item},
-  FOREIGN KEY {Weight},
-  ,
+  FOREIGN KEY {Weight}
 );
 
 

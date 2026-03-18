@@ -1,17 +1,14 @@
 --https://runsql.com/sql-validator/
 CREATE TABLE PantryStore (
-  storageID PRIMARY KEY int,
-  FOREIGN KEY {Amounts},
-  ,
-  ,
+  storageID int PRIMARY KEY,
+  FOREIGN KEY int (Amounts),
+  FOREIGN KEY int (refID)
 );
 
 CREATE TABLE PantryRef (
-  refID PRIMARY KEY,
-  FOREIGN KEY {storageID},
+  refID int PRIMARY KEY,
   name str NOT NULL,
-  specificSubDomain,
-  ,
+  specificSubDomain
 );
 
 CREATE TABLE PantryAppend (
@@ -29,9 +26,9 @@ CREATE TABLE PantryVariants (
 );
 
 CREATE TABLE PantryAmounts (
-  Amounts PRIMARY KEY,
-  FOREIGN KEY {Item},
-  FOREIGN KEY {Weight}
+  Amounts PRIMARY KEY int,
+  FOREIGN KEY (Item),
+  FOREIGN KEY (Weight)
 );
 
 
@@ -112,4 +109,8 @@ CREATE TABLE PantryTaste (
   ,
   ,
   ,
+);
+
+CREATE TABLE  (
+  PRIMARY KEY,
 );
